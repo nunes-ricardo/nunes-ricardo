@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 * **Mobile Application Developer** 
 	- Flutter/Dart - _since 04/2019_
-	- Xamarin - _since 01/2018
+	- Xamarin - _since 01/2018_
 
 * **Web Developer** 
-	* Angular 7+ - _since_ 07/2017
+	* Angular 7+ - _since 07/2017_
 
 ### Self-taught
 - MongoDB  
